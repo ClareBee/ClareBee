@@ -1,6 +1,4 @@
-
-## 😊&nbsp; About Me
-
+<br />
 <p align="center">
   <a href="https://clarebee.com">
     <img width=20% src="/portrait.jpeg">
@@ -9,8 +7,12 @@
 <p align="center">
   <strong>I'm a developer in Scotland, working mainly with React.</strong>
 </p>
+<br/>
 
 ---
+
+## 😊&nbsp; About Me
+
 
 You might notice 2020 is largely tumbleweed on my commit history...😅&nbsp; 
 
