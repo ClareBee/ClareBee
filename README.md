@@ -1,11 +1,9 @@
 
-## Hi there 👋
-
 ## 😊&nbsp; About Me
 
 <p align="center">
   <a href="https://clarebee.com">
-    <img width=20% src="/portrait.jpg">
+    <img width=20% src="/portrait.jpeg">
   </a>
 </p>
 <p align="center">
