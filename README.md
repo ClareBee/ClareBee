@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://clarebee.com">
-    <img width=40% src="/thumbnail.jpg">
+    <img width=40% src="/thumbnail.png">
   </a>
 </p>
 <p align="center">
