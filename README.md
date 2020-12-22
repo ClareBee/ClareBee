@@ -18,7 +18,7 @@ You might notice 2020 is largely tumbleweed on my commit history...😅&nbsp;
 
 That's not because I quit... Well, I _did_ take time out at the start of the year to travel Scotland in a van 🚐,&nbsp; - but Coronavirus put the breaks on that plan!
 
-The sudden drop-off of little green squares this year is because my work repos are all on Bitbucket & in my free time I've been clicking buttons on the AWS management console to prep for the AWS Developer Associate Certification, instead of shipping code!
+The sudden drop-off of little green squares this year is because work repos are all on Bitbucket & in my free time I've been clicking buttons on the AWS management console, prepping for the AWS Developer Associate Certification instead of shipping code!
 
 **2021 I'm going to get back into it on here, so watch this space...**
 
