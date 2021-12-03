@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <strong>I'm a developer in Scotland, working mainly with React.</strong>
+  <strong>I'm a developer in Yorkshire, working mainly with React.</strong>
 </p>
 <br/>
 
@@ -13,18 +13,17 @@
 
 ## 😊&nbsp; About Me
 
-
-You might notice 2020 is largely tumbleweed on my commit history...😅&nbsp; 
-
-That's not because I quit... Well, I _did_ take time out at the start of the year to travel Scotland in a van 🚐,&nbsp; - but Coronavirus put the breaks on that plan!
-
-The sudden drop-off of little green squares this year is because work repos are all on Bitbucket & in my free time I've been clicking buttons on the AWS management console, prepping for the AWS Developer Associate Certification instead of shipping code!
-
-**2021 I'm going to get back into it on here, so watch this space...**
+React-fan, constantly trying to balance the code hustle with quality of life ⛰🧘
 
 <br />
 
-## 🏗&nbsp; Currently working on
+## 🐝&nbsp; 2021-?
+
+React Native, Node.js for a London-based fintech.
+
+<br />
+
+## 🏗&nbsp; 2020-21
 
 Gatsby, TypeScript, AWS & Cypress for a great company in Edinburgh.
 
