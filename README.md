@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <strong>I'm a developer in Yorkshire, working mainly with React.</strong>
+  <strong>I'm a developer in the UK, working mainly with React.</strong>
 </p>
 <br/>
 
