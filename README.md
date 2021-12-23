@@ -19,7 +19,7 @@ React-fan, constantly trying to balance the code hustle with quality of life ⛰
 
 <p align="center">
   <a href="https://clarebee.com">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClareBee&layout=compact&hide=java,html" >
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClareBee&layout=compact&hide=java,html&theme=cobalt" >
   </a>
 </p>
 
