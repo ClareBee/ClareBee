@@ -17,6 +17,13 @@ React-fan, constantly trying to balance the code hustle with quality of life ⛰
 
 <br />
 
+<p align="center">
+  <a href="https://clarebee.com">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClareBee&layout=compact&hide=java,html" >
+  </a>
+</p>
+
+
 ## 🐝&nbsp; 2021-?
 
 React Native, Node.js for a London-based fintech.
@@ -46,3 +53,6 @@ Often on <a href="https://www.twitter.com/clarie_bee">Twitter</a> doing #100Days
   </a>
 </p>
 <br/>
+
+
+  
