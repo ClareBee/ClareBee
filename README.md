@@ -23,8 +23,14 @@ React-fan, constantly trying to balance the code hustle with quality of life ⛰
   </a>
 </p>
 
+## 🌏&nbsp; 2022-?
 
-## 🐝&nbsp; 2021-?
+React, TypeScript, Next.js for a remote-first company. On GitLab - hence the tumbleweed on here.
+
+<br />
+
+
+## 🐝&nbsp; 2021-22
 
 React Native, Node.js for a London-based fintech.
 
@@ -38,13 +44,13 @@ Gatsby, TypeScript, AWS & Cypress for a great company in Edinburgh.
 
 ## 📚&nbsp; Currently learning
 
-Serverless, Next.js (& determined to overcome imposter syndrome by finally getting to grips with some proper Bash scripting...).
+Accessibility, Three.js, Elixir
 
 <br />
 
 ## 📫&nbsp; Online
 
-Often on <a href="https://www.twitter.com/clarie_bee">Twitter</a> doing #100DaysOfCode & #100DaysOfCloud - & liking all the dog photos 🐶
+On Mastodon with the moss folk
 
 <br />
 <p align="center">
